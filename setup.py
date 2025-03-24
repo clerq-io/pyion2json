@@ -11,7 +11,7 @@ setup(
     description='Convert an Amazon Ion document(s) to JSON',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    version='0.0.2',
+    version='0.0.3',
     license='MIT',
     author='crouchcd',
     author_email='cdcsoftdev@gmail.com',
